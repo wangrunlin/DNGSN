@@ -1,5 +1,5 @@
 # DNGSN
 
-Digital Nomad Global Service Network
+Digital Nomad Global Service Network / 数字游民全球服务网络
 
-- Discord: https://discord.gg/bpBpcf9uNN
+- [Join Discord](https://discord.gg/bpBpcf9uNN)
